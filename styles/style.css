@@ -32,7 +32,7 @@
   text-underline-offset: 4px;
 }
 
-.link_active{
+.link_active {
   display: inline-block;
   text-decoration: none;
   pointer-events: none;
